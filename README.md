@@ -16,12 +16,15 @@
 - 2.) En este segundo ejercicio, se nos pide que un grupo de los objetos que he colocado en la escena, al colisionar con el jugador, este salga desplazado una cantidad proporcional al poder del jugador, en la dirección en la que el jugador colisiona con el objeto.
 - Para el desarrollo de este segundo punto, he implementado un script, con el cual se detectara si el objeto, en este caso he decidido que serán los cubos los que se desplazaran una cantidad proporcional al poder, ha entrado en contacto con el jugador. En caso de que hayan colisionado, se aplicará dicho desplazamiento en función del poder que tenga el jugador en ese momento. 
 - He desarrollado dos script, uno perteneciente al jugador, que será el encargado de ir registrando el poder, además de contener las funciones encargadas de incrementar el poder y la función encargada de retornar el poder para usarlo en el siguiente script.
+  
   ![Alt text](/img/poder.png)
   
 - El siguiente script que he desarrollado para este segundo apartado, es el encargado de detectar la colisión con el jugador. En caso de que el cubo colisione con el jugador, se calculará la dirección en la que tiene que salir disparado el cubo y se aplicara dicha fuerza.
+  
   ![Alt text](/img/colisionCubo.png)
 
 - Tras el desarrollo de los scripts anteriores, este seria el resultado final
+
 ![Alt text](/img/cubo.gif)
 
 ### Ejercicio 3
