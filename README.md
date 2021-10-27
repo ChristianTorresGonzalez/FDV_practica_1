@@ -1,10 +1,10 @@
 # Practica_04_ChristianTorresGonzalez
 
   En esta cuarta práctica, tendré que implementar una escena en la cual se encuentran diversos objetos y que proporcionaran poderes al jugador. Para ello, tendré jugar con las físicas que se le pueden añadir a los objetos que situados en la escena. Para la realización de esta practica, la dividiré en varias partes, una primera parte inicial, en la que desarrollaremos una escena básica con un plano, una esfera, y un cubo. Serán a estos objetos, a los que le añadiré todas estas opciones que deberemos implementar en la practica. Para este primer punto, trabajaremos simplemente con el inspector de nuestra escena, ya será en la segunda parte de la practica, donde trabajaremos con scripts.
-  - 1. Desarrollamos nuestra escena básica, en la que incluiremos un plano sobre el que se situarán y podrán mover los objetos, para que en los puntos posteriores, al aplicarle las físicas a los objetos, puedan apreciarse esas propiedades.
+  - Desarrollamos nuestra escena básica, en la que incluiremos un plano sobre el que se situarán y podrán mover los objetos, para que en los puntos posteriores, al aplicarle las físicas a los objetos, puedan apreciarse esas propiedades.
   ![Alt text](/img/escena.png)
   
-  - 1.a) Una vez situados los objetos en la escena, tengo que añadirle las físicas, ya que si no, estos se quedarán flotando en el aire y lo que es mas importante, no podrán colisionar con el resto de objetos, siendo este el punto clave de la práctica. Para ello, añadiré a todos los objetos la opción de Rigidbody, con la que quedarán añadidas las físicas a los objetos.
+  - Una vez situados los objetos en la escena, tengo que añadirle las físicas, ya que si no, estos se quedarán flotando en el aire y lo que es mas importante, no podrán colisionar con el resto de objetos, siendo este el punto clave de la práctica. Para ello, añadiré a todos los objetos la opción de Rigidbody, con la que quedarán añadidas las físicas a los objetos.
 
 - Con esto quedaría terminado el primer punto de la practica, el cual ha consistido en formar nuestra escena con objetos sencillos y ubicarlos por nuestro plano, clasificándolos en objetos con movimiento rectilíneo y objetos que no se moverán, es decir, estáticos.
 
