@@ -1,6 +1,3 @@
-
-
-
 # Practica_04_ChristianTorresGonzalez
 
   En esta cuarta práctica, tendré que implementar una escena en la cual se encuentran diversos objetos y que proporcionaran poderes al jugador. Para ello, tendré jugar con las físicas que se le pueden añadir a los objetos que situados en la escena. Para la realización de esta practica, la dividiré en varias partes, una primera parte inicial, en la que desarrollaremos una escena básica con un plano, una esfera, y un cubo. Serán a estos objetos, a los que le añadiré todas estas opciones que deberemos implementar en la practica. Para este primer punto, trabajaremos simplemente con el inspector de nuestra escena, ya será en la segunda parte de la practica, donde trabajaremos con scripts.
